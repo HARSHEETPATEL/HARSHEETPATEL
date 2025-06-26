@@ -1,6 +1,6 @@
 ## Hey there, I'm Harsheet Patel 👨‍💻 
 
-**Web Developer Practitioner | Web Site Design |**
+**Web Developer Practitioner | Web Site Designer |**
 
 <h2 align="left">💼 About Me?</h2>
 
