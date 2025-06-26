@@ -20,8 +20,9 @@ With a strong foundation in HTML, CSS, JavaScript, and frameworks like React and
   - 🌱 Diving deeper into: Web Development FrameWork, UI/UX learning.
 </p>
 <p>
-  📄 Resume: <a href="files/resume.pdf" target="_blank">Download Resume (PDF)</a>
+  📄 Resume: <a href="https://drive.google.com/file/d/1V7xRL6KD8eyZ9zRLQ9pl1TbSZOFz7FuN/view?usp=drive_link" target="_blank">Download Resume (PDF)</a>
 </p>
+
 
   
 ###
