@@ -50,7 +50,7 @@ With a strong foundation in HTML, CSS, JavaScript, and frameworks like React and
 <br>
 
   <p>2) Sumago Infotech Pvt.Ltd </p>
-  <p>- Worked as Trenee</p>
+  <p>- Worked as trainee</p>
   <p>
     - Developed and implemented back-end and front-end for 2 products.
   </p>
