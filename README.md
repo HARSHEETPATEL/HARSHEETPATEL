@@ -89,8 +89,6 @@ With a strong foundation in HTML, CSS, JavaScript, and frameworks like React and
   <h3>🖥️ Programming Language </h3>
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
-<!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg hright="30" alt="C++" />
-  <img width="12" />        -->
   
 </div>
 
