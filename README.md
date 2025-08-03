@@ -35,7 +35,7 @@ With a strong foundation in HTML, CSS, JavaScript, and frameworks like React and
 <p>
   <p>1) Cloudtales Technologies LLP</p>
   <p>
-   FullStack Developer Intern
+   - FullStack Developer Intern
   </p>
   <p>
    - Developed a responsive full-stack platform for a foundation
