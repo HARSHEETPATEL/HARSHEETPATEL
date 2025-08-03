@@ -1,5 +1,4 @@
 
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 ## Hey there, I'm Harsheet Patel 👨‍💻 
 
@@ -87,7 +86,7 @@ With a strong foundation in HTML, CSS, JavaScript, and frameworks like React and
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-          
+   <img width="12" />       
   
 </div>
 
