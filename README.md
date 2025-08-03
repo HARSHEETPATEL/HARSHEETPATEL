@@ -1,5 +1,5 @@
 
-          
+<body>  
 ## Hey there, I'm Harsheet Patel 👨‍💻 
 
 **Web Developer Practitioner | Web Site Designer |**
@@ -85,7 +85,7 @@ With a strong foundation in HTML, CSS, JavaScript, and frameworks like React and
   <h3>🖥️ Programming Language </h3>
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  
    <img width="12" />       
   
 </div>
@@ -120,6 +120,6 @@ With a strong foundation in HTML, CSS, JavaScript, and frameworks like React and
 <p>Thanks for visiting! Feel free to explore my work and connect with me.</p>
 
 
-
+</body>
 
 ###
