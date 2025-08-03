@@ -1,5 +1,9 @@
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/538e0acf-412b-463b-92d7-0e8f4670ea5c" /><head>
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</head>
 
 <body>  
+ 
 ## Hey there, I'm Harsheet Patel 👨‍💻 
 
 **Web Developer Practitioner | Web Site Designer |**
@@ -85,8 +89,8 @@ With a strong foundation in HTML, CSS, JavaScript, and frameworks like React and
   <h3>🖥️ Programming Language </h3>
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
-  
-   <img width="12" />       
+<!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg hright="30" alt="C++" />
+  <img width="12" />        -->
   
 </div>
 
