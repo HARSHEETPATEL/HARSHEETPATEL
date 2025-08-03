@@ -76,7 +76,7 @@ With a strong foundation in HTML, CSS, JavaScript, and frameworks like React and
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   
-  <h3>🖥️ Hosting Seystem</h3>
+  <h3>🖥️ Hosting System</h3>
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
 
