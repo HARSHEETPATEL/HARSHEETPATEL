@@ -1,6 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/538e0acf-412b-463b-92d7-0e8f4670ea5c" /><head>
- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-</head>
+
 
 <body>  
  
