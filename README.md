@@ -70,6 +70,7 @@ With a strong foundation in HTML, CSS, JavaScript, and frameworks like React and
 
 <h3>🌐 Front End</h3>
 <div align="left">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
@@ -89,6 +90,7 @@ With a strong foundation in HTML, CSS, JavaScript, and frameworks like React and
 
   <h3>🖥️ Programming Language </h3>
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> 
   <img width="12" />
   
 </div>
