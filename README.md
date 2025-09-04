@@ -83,6 +83,10 @@ With a strong foundation in HTML, CSS, JavaScript, and frameworks like React and
 <h3> 🔧 Backend </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
+
+ <h3> Database</h3>
+ <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+ 
   
   <h3>🖥️ Hosting System</h3>
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
