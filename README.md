@@ -4,7 +4,7 @@
  
 ## Hey there, I'm Harsheet Patel 👨‍💻 
 
-**Web Developer Practitioner | Web Site Designer |Ai Model Developer |**
+**Web Developer Practitioner | Web Site Designer | Ai Model Developer |**
 
 <h2 align="left">💼 About Me?</h2>
 
